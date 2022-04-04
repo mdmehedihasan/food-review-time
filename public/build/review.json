@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "rating": "5⭐",
+    "picture": "https://storage.googleapis.com/rytr/public/image/testimonials/meri.jpg",
+    "name": "Meri Pipenbaher",
+    "designation": "Founder, Vidly",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me. "
+  },
+  {
+    "_id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://www.elitephotographygroup.com/wp-content/uploads/2020/04/ElitePhotographyGroup-Corporate-Studio-Business-Headshot-Photography-Mature-Woman-Gray-Hair-Blue-Jacket-13-064-008-400x500.jpg",
+    "name": "Lara Vei",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  },
+  {
+    "_id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://www.elitephotographygroup.com/wp-content/uploads/2020/04/ElitePhotographyGroup-Corporate-Studio-Business-Headshot-Photography-Black-woman-nametag-hair-pulled-back-13-036-131-400x500.jpg",
+    "name": "Joe Cha",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  },
+  {
+    "_id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://www.elitephotographygroup.com/wp-content/uploads/2020/04/ElitePhotographyGroup-Corporate-Studio-Business-Headshot-Photography-Mature-Woman-Gray-Hair-Blue-Jacket-13-064-008-400x500.jpg",
+    "name": "Mix Yellow",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  },
+  {
+    "_id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "picture": "https://storage.googleapis.com/rytr/public/image/testimonials/meri.jpg",
+    "name": "Bachelor",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  },
+  {
+    "_id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://www.elitephotographygroup.com/wp-content/uploads/2020/04/ElitePhotographyGroup-Corporate-Studio-Business-Headshot-Photography-Black-woman-nametag-hair-pulled-back-13-036-131-400x500.jpg",
+    "name": "Jara",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  },
+  {
+    "_id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 41,
+    "picture": "https://storage.googleapis.com/rytr/public/image/testimonials/meri.jpg",
+    "name": "Black Skull",
+    "rating": "5⭐",
+    "designation": "CEO, RPO",
+    "description": "I used to spend hours writing creative copy, but now all I do is tell Rytr what I need and it writes everything for me."
+  }
+]
