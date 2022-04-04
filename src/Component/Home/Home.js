@@ -28,7 +28,7 @@ const Home = () => {
                 <div className='grid grid-cols-3 grid-rows-2 gap-5 px-5'>
 
                     {
-                        reviews.map(review => <Review
+                        reviews.slice(0, 3).map(review => <Review
                             key={review._id}
                             review={review}
                         ></Review>)

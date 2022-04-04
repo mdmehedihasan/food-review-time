@@ -1,9 +1,9 @@
 import React from 'react';
-
+import MyLineChart from '../MyLineChart/MyLineChart'
 const Dashboard = () => {
     return (
         <div>
-            <p>This is dashboard</p>
+            <MyLineChart></MyLineChart>
         </div>
     );
 };
