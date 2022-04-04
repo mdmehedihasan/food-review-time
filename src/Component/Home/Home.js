@@ -21,13 +21,19 @@ const Home = () => {
                     <img width="500px" height="600px" src="images/Burger.jpg" alt="burger" />
                 </div>
             </div>
-            <div className='grid grid-cols-3 grid-rows-2 gap-5'>
-                {
-                    reviews.map(review => <Review
-                        key={review._id}
-                        review={review}
-                    ></Review>)
-                }
+            <div>
+                <h1 className='text-3xl font-bold my-6'>
+                    Client,s Review
+                </h1>
+                <div className='grid grid-cols-3 grid-rows-2 gap-5 px-5'>
+
+                    {
+                        reviews.map(review => <Review
+                            key={review._id}
+                            review={review}
+                        ></Review>)
+                    }
+                </div>
             </div>
         </div>
     );
