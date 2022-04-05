@@ -9,10 +9,12 @@ import About from './Component/About/About'
 import Notfound from './Component/Notfound/Notfound'
 
 
+
 function App() {
   return (
     <div className="App">
       <Header></Header>
+
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
@@ -22,6 +24,7 @@ function App() {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='*' element={<Notfound></Notfound>}></Route>
       </Routes>
+
     </div>
   );
 }
