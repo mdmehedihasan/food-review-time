@@ -1,7 +1,10 @@
 ## Assignment 9( Food Review Time)
 Project Link [Food Review Time](https://food-review-time.netlify.app/).
+➤ Use React hook
+➤ Use Rechart for Chart
+➤ Use Review.json for review
+➤ Use React Router
 
-In the project directory, you can run:
 
 ### `npm start`
 
