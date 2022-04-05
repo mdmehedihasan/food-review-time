@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Assignment 9( Food Review Time)
+Project Link [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
