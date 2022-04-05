@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+## `Assignment 9( Food Review Time)`
+Project Link [Food Review Time](https://food-review-time.netlify.app/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## `What I use in my project`
+➤ Use React hook
+➤ Use Rechart for Chart
+➤ Use Review.json for review
+➤ Use React Router
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
