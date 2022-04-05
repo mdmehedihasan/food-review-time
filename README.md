@@ -1,7 +1,5 @@
-##Assignment 9( Food Review Time)
+## Assignment 9( Food Review Time)
 Project Link [Food Review Time](https://food-review-time.netlify.app/).
-
-## Available Scripts
 
 In the project directory, you can run:
 
